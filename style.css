@@ -1,0 +1,35 @@
+.jumbotron{
+    padding-top:5rem;
+    background-color: #005b8f;
+
+}
+.galery{
+    padding:2rem;
+    background-color: #005b8f;
+
+}
+.lead{
+    color:white;
+}
+h1{
+    color:white;
+}
+.text{
+    color:white;
+}
+#project{
+    background-color: #005b8f;
+}
+.p1{
+    color:white;
+}
+section{
+    padding-top:6rem;
+}
+b{
+   font-size: 24px;
+   color:white;
+}
+p{
+    text-align: center;
+}
